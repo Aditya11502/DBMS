@@ -8,7 +8,7 @@ Objective: Objective of this project is to create an user-friendly environment f
            
 Technologies Used: 
 •	MySQL
-•	Node js
+•	PHP
 •	HTML
 •	CSS
 •	Javascript
